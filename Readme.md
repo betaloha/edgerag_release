@@ -1,6 +1,6 @@
 # EdgeRAG Implementation
 
-##Setup
+## Setup
 1.Create virtual env
 python3 -m venv edgerag_release
 
