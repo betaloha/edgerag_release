@@ -14,3 +14,6 @@ To include-system-site-packages = true
 
 5.Create Index
 See notes.txt in gen_index
+
+6.Run test
+See notes.txt in run_test
