@@ -1,0 +1,2 @@
+Run beir_indexer.py to generate index.
+
