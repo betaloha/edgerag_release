@@ -16,7 +16,7 @@ Change include-system-site-packages = false \
 To include-system-site-packages = true
 
 5. Create Index
-See notes.txt in gen_index
+See gen_index/Readme.txt
 
 6. Run test
-See notes.txt in run_test
+See run_test/notes.txt
